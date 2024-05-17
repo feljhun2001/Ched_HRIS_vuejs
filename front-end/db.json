@@ -1,0 +1,47 @@
+{
+  "employees": [
+    {
+      "f_name": "Kevin",
+      "l_name": "Love",
+      "id": "03b2"
+    },
+    {
+      "f_name": "Kyrie",
+      "l_name": "Irving",
+      "id": "120f"
+    },
+    {
+      "id": "455c",
+      "f_name": "LeBron",
+      "l_name": "James"
+    },
+    {
+      "f_name": "Fel Jhun",
+      "l_name": "Rosete",
+      "id": "6da9"
+    },
+    {
+      "id": "6bab",
+      "f_name": "Hassan",
+      "l_name": "Whiteside"
+    }
+  ],
+  "applicants": [
+    {
+      "f_name": "Eman",
+      "l_name": "Shrumpert ",
+      "id": "1"
+    },
+    {
+      "f_name": "Jr",
+      "l_name": "Smith ",
+      "id": "2"
+    },
+    {
+      "f_name": "Jr",
+      "l_name": "Smith ",
+      "id": "2"
+    }
+
+  ]
+}
